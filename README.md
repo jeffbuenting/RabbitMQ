@@ -1,7 +1,7 @@
 # RabbitMQ
 ##Rabbit Messaging Queue Powershell Module
 
-Powershell Cmdlets for Rabbit MQ.
+Powershell Cmdlets for Rabbit MQ.   
 https://www.rabbitmq.com/
 
 
